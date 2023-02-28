@@ -75761,11 +75761,13 @@ s=1
 break
 case 1:return A.a2(q,r)}})
 return A.a3($async$rm,r)},
-J(a){var s,r,q={},p=t.yp.a(A.nr(a,t.X).b.b)
-q.a=A.a([],t.s)
+J(a){var s,r,q,p={},o=t.yp.a(A.nr(a,t.X).b.b)
+p.a=A.a([],t.s)
 s=this.d
-r=J.c3(p)
-return A.K1(A.anv(a,s,r.gL(p)),new A.q8(this.rm("assets/workout_instructions/"+A.h(r.gT(p))+".txt"),new A.aeD(q),null,t.CN),B.hW,null,s)}}
+r=J.c3(o)
+q=A.anv(a,s,r.gL(o))
+r=this.rm("assets/assets/workout_instructions/"+A.h(r.gT(o))+".txt")
+return A.K1(q,new A.q8(r,new A.aeD(p),null,t.CN),B.hW,null,s)}}
 A.aeE.prototype={
 $1(a){return this.a.push(a)},
 $S:36}
