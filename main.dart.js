@@ -76406,8 +76406,8 @@ A.ag4.prototype={
 $0(){},
 $S:0}
 A.ag1.prototype={
-$2(a,b){var s=null,r=A.X(a),q=b.b
-return A.fi(A.a([A.e8(s,A.apZ("assets/images/applogo.png",B.ej),s,B.yU,new A.dl(r.cy,s,s,B.mO,s,s,B.au),q*0.3,s,s,q*0.4)],t.p),B.ao,B.cA,B.ab)},
+$2(a,b){var s=null,r=A.X(a),q=b.b*0.3
+return A.fi(A.a([A.e8(s,A.apZ("assets/images/applogo.png",B.ej),s,B.yU,new A.dl(r.cy,s,s,B.mO,s,s,B.au),q,s,s,q)],t.p),B.ao,B.cA,B.ab)},
 $S:160}
 A.m4.prototype={
 I(){return"WorkoutChoices."+this.b}}
