@@ -76128,11 +76128,11 @@ return A.a2($async$$0,r)},
 $S:21}
 A.np.prototype={
 ad(){var s=t.s
-return new A.Ot(new A.bh(null,t.sW),A.a([A.a(["Abs","assets/images/abs.png"],s),A.a(["Chest","assets/images/chest.png"],s),A.a(["Back","assets/images/back.png"],s),A.a(["Arms","assets/images/arms.png"],s),A.a(["Legs","assets/images/legs.png"],s)],t.rj),B.l)}}
+return new A.Ot(new A.bh(null,t.sW),A.a([A.a(["Abs","assets/images/abs.png"],s),A.a(["Chest","assets/images/chest.png"],s),A.a(["Back","assets/images/back.png"],s),A.a(["Arms","assets/images/arms.png"],s),A.a(["Legs","assets/images/legs.png"],s),A.a(["Full Body","assets/images/fullbody.png"],s)],t.rj),B.l)}}
 A.Ot.prototype={
 J(a){var s=null,r=this.d,q=A.anS(a,r,"FIT Workout Planner"),p=!0
 p=p?B.yl:s
-return A.Ko(q,A.hu(A.d1(new A.Hj(B.zJ,new A.KV(new A.aer(this),5,!0,!0,!0,s),B.Ce,B.aY,!1,s,s,p,!1,s,5,B.au,B.Ji,s,B.U,s),820,500),s,s),B.i_,s,r)}}
+return A.Ko(q,A.hu(A.d1(new A.Hj(B.zJ,new A.KV(new A.aer(this),6,!0,!0,!0,s),B.Ce,B.aY,!1,s,s,p,!1,s,6,B.au,B.Ji,s,B.U,s),820,500),s,s),B.i_,s,r)}}
 A.aer.prototype={
 $2(a,b){var s=null,r=A.X(a),q=A.I(150,0,0,0),p=this.a,o=p.e
 return A.alI(new A.Hi(A.e8(s,A.hu(A.f9(B.b.gL(o[b]),s,s,s,B.MD,s,s),s,s),q,s,s,s,s,s,s),A.aq3(!1,s,!0,new A.qB(s,new A.dA(s,new A.FN(new A.mH(o[b][1],s,s),s,s,B.ek,B.a0,s,B.c1,!1),s,s,s,s,B.aA),s),!1,s,!0,!1,s,s,s,B.aA,s,s,s,s,s,s,s,s,new A.aeq(p,a,b),s,s,s,s,s,s,B.eo,s),s),10,s,new A.bv(B.ei,new A.bs(r.cy,2,B.T,-1)))},
@@ -76407,7 +76407,7 @@ A.kX.prototype={
 I(){return"EquipmentChoices."+this.b}}
 A.oi.prototype={
 ad(){var s=t.s
-return new A.Ro(new A.bh(null,t.sW),A.a([],s),A.a([A.a(["Abs","abs"],s),A.a(["Chest","chest"],s),A.a(["Back","back"],s),A.a(["Arms","arm"],s),A.a(["Legs","leg"],s)],t.rj),B.l)}}
+return new A.Ro(new A.bh(null,t.sW),A.a([],s),A.a([A.a(["Abs","abs"],s),A.a(["Chest","chest"],s),A.a(["Back","back"],s),A.a(["Arms","arm"],s),A.a(["Legs","leg"],s),A.a(["Full Body","fullbody"],s)],t.rj),B.l)}}
 A.Ro.prototype={
 J(a){var s=null,r=t.yp.a(A.nF(a,t.X).b.b),q=this.d
 return A.Ko(A.anS(a,q,J.mA(r)),A.hu(A.d1(new A.wT(new A.ahI(this,r),s),820,500),s,s),B.i_,s,q)}}
