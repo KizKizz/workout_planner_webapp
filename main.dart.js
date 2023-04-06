@@ -95500,7 +95500,7 @@ $.aLC=null
 $.aQk=A.z(t.N,t.y)
 $.aQi=A.z(t.N,A.a8("Qf"))
 $.aCC=null
-$.aZD=A.a([A.a(["plank holds","https://github.com/KizKizz/workout_planner/blob/main/workout_gifs/Plank%20Hold.gif?raw=true"],t.s)],t.rj)
+$.aZD=A.a([A.a(["plank holds","https://raw.githubusercontent.com/KizKizz/workout_planner/main/workout_gifs/Plank%20Hold.gif"],t.s)],t.rj)
 $.yj=A.a([],t.s)
 $.aZC=""})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
 s($,"b2H","cz",()=>A.aZ0(A.ao(A.aGh(self.window),"vendor"),B.c.anQ(A.aQQ(A.aGh(self.window)))))
